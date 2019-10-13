@@ -1,0 +1,10 @@
+## Interface: 11302
+## Title: GrinderCoreClassic
+## Notes: A library addon that tracks items and reputation statistics
+## Author: Tiok - US Thrall
+## Version: 1.0.0
+## OptionalDeps:
+## Dependencies:
+## SavedVariables: GrinderCoreClassic_Inventories, GrinderCoreClassic_Settings
+## SavedVariablesPerCharacter: GrinderCoreClassic_Factions
+GrinderCoreClassic.xml
